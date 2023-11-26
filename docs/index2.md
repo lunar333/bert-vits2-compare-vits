@@ -6,8 +6,8 @@ hide:
 #### 以下测试文本均采用标日上册第19课课文和中级下册第23课课文，确保测试文本不在训练集内，保证对比的可靠性
 #### 其中bert-vits2使用的最新发布版本2.1.0，微调跑了3万步，vits同样跑了3万步
 
-|  角色(训练语料日语10分钟)   | 测试文本  | 合成语音 | bert-vits2-合成语音 |
-|  ----  | ----  | ----  | ----  |
+|  角色(训练语料日语10分钟)   | 测试文本  |   vits合成语音   |   bert-vits2-合成语音 |
+|:----------------------------:|:---------:|:----------------:|:---------------------:|
 | 慧慧（为美好世界献上祝福） | 这家商店的东西正在大减价，商店里客户真的不少，有的正在挑东西，有的正在排队交钱。这位先生在做什么呢？他正在等他的愛人呢。| <audio controls><source src="./audio/huihui_zh_vits1.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/huihui_zh_bert1.wav" type="audio/mpeg"></audio> |
 | 慧慧（为美好世界献上祝福） | 外边正在下雨，莉莉跟朋友们在房间里一边喝咖啡一边聊天儿。 | <audio controls><source src="./audio/huihui_zh_vits2.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/huihui_zh_bert2.wav" type="audio/mpeg"></audio> |
 | 慧慧（为美好世界献上祝福） | 秋天了，天气凉了，山上的树叶都红了。西蒙他们打算今天去香山看红叶。| <audio controls><source src="./audio/huihui_zh_vits3.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/huihui_zh_bert3.wav" type="audio/mpeg"></audio> |
