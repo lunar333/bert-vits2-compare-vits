@@ -1,6 +1,5 @@
 ---
 hide:
-  - navigation
   - toc
 ---
 # bert-vits2和vits跨语言合成对比效果展示（日跨中）
