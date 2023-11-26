@@ -2,11 +2,12 @@ site_name: bert-vits2 合成效果对比 vits
 
 nav:
   - Home: index.md
-  # 在这里添加更多页面，如果需要
+  # 添加您的其他页面...
 
 theme:
   name: material
   features:
+    - content.tabs  # 添加此行来启用标签页功能
     - navigation.tabs
     - navigation.tabs.sticky
   icon:
