@@ -9,3 +9,12 @@
 | 慧慧 | 李さん,いっしょに食事に行きませんか?  李小姐，一起去吃饭么？| <audio controls><source src="/website/audio/huihui_8.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_8.wav" type="audio/mpeg"></audio> |
 | 慧慧 | すみません.今日は早く帰って,レポートをか書かなければなりません. 对不起。今天我得早点回去写报告。| <audio controls><source src="/website/audio/huihui_9.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_9.wav" type="audio/mpeg"></audio> |
 | 慧慧 | 先生,もう薬を飲まなくてもいいですか?  大夫，可以不吃药了吗?| <audio controls><source src="/website/audio/huihui_10.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_10.wav" type="audio/mpeg"></audio> |
+
+
+---
+hide:
+  - navigation
+  - toc
+---
+
+# 页面的其余 Markdown 内容...
