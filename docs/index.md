@@ -9,8 +9,8 @@ hide:
 
 |  角色(训练语料10分钟)   | 测试文本  | 合成语音 | bert-vits2-合成语音 |
 |  ----  | ----  | ----  | ----  |
-| 慧慧 | その 品物に 触らないで ください。 请不要碰那个货物！| <audio controls><source src="./audio/huihui_1.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_1.wav" type="audio/mpeg"></audio> |
-| 慧慧 | あっ,すみません。 啊，对不起。 | <audio controls><source src="/website/audio/huihui_7.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_7.wav" type="audio/mpeg"></audio> |
-| 慧慧 | 李さん,いっしょに食事に行きませんか?  李小姐，一起去吃饭么？| <audio controls><source src="/website/audio/huihui_8.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_8.wav" type="audio/mpeg"></audio> |
-| 慧慧 | すみません.今日は早く帰って,レポートをか書かなければなりません. 对不起。今天我得早点回去写报告。| <audio controls><source src="/website/audio/huihui_9.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_9.wav" type="audio/mpeg"></audio> |
-| 慧慧 | 先生,もう薬を飲まなくてもいいですか?  大夫，可以不吃药了吗?| <audio controls><source src="/website/audio/huihui_10.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_10.wav" type="audio/mpeg"></audio> |
+| 慧慧（为美好世界献上祝福） | その 品物に 触らないで ください。 请不要碰那个货物！| <audio controls><source src="./audio/huihui_1.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_1.wav" type="audio/mpeg"></audio> |
+| 慧慧（为美好世界献上祝福） | あっ,すみません。 啊，对不起。 | <audio controls><source src="/website/audio/huihui_7.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_7.wav" type="audio/mpeg"></audio> |
+| 慧慧（为美好世界献上祝福） | 李さん,いっしょに食事に行きませんか?  李小姐，一起去吃饭么？| <audio controls><source src="/website/audio/huihui_8.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_8.wav" type="audio/mpeg"></audio> |
+| 慧慧（为美好世界献上祝福） | すみません.今日は早く帰って,レポートをか書かなければなりません. 对不起。今天我得早点回去写报告。| <audio controls><source src="/website/audio/huihui_9.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_9.wav" type="audio/mpeg"></audio> |
+| 慧慧（为美好世界献上祝福） | 先生,もう薬を飲まなくてもいいですか?  大夫，可以不吃药了吗?| <audio controls><source src="/website/audio/huihui_10.wav" type="audio/mpeg"></audio> | <audio controls><source src="./audio/bert-vits2_huihui_10.wav" type="audio/mpeg"></audio> |
