@@ -1,4 +1,9 @@
 site_name: bert-vits2 合成效果对比 vits
+
+nav:
+  - Home: index.md
+  # 在这里添加更多页面，如果需要
+
 theme:
   name: material
   features:
