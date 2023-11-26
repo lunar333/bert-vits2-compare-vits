@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # bert-vits2和vits对比效果展示
 #### 以下测试文本均采用标日上册第19课课文，确保测试文本不在训练集内，保证对比的可靠性
 #### 其中bert-vits2使用的最新发布版本2.1.0，微调跑了3万步，vits同样跑了3万步
@@ -9,12 +14,3 @@
 | 慧慧 | 李さん,いっしょに食事に行きませんか?  李小姐，一起去吃饭么？| <audio controls><source src="/website/audio/huihui_8.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_8.wav" type="audio/mpeg"></audio> |
 | 慧慧 | すみません.今日は早く帰って,レポートをか書かなければなりません. 对不起。今天我得早点回去写报告。| <audio controls><source src="/website/audio/huihui_9.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_9.wav" type="audio/mpeg"></audio> |
 | 慧慧 | 先生,もう薬を飲まなくてもいいですか?  大夫，可以不吃药了吗?| <audio controls><source src="/website/audio/huihui_10.wav" type="audio/mpeg"></audio> | <audio controls><source src="/website/audio/bert-vits2_huihui_10.wav" type="audio/mpeg"></audio> |
-
-
----
-hide:
-  - navigation
-  - toc
----
-
-# 页面的其余 Markdown 内容...
